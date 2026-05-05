@@ -1,3 +1,15 @@
+# Universidad Peruana de Ciencias Aplicadas
+## Fundamentos de Data Science - 1ACC0216-2610-16310
+
+<p align="center">
+  <img src="https://www.canvia.com/wp-content/uploads/2023/08/crymibfuwaapssb.png" alt="Logo UPC" width="200"/>
+</p>
+
+### Profesora
+Nérida Isabel Manrique Tunque
+
+---
+
 # 1ACC0216 - TB1 - 2026-1  
 ## Análisis Exploratorio de Datos - Hotel Booking Demand
 
@@ -30,14 +42,7 @@ Nota: El dataset contiene valores faltantes (NA) y valores atípicos (outliers),
 ### Estructura del Repositorio
 ```bash
 ├── data/
-│   ├── raw/        # Dataset original
-│   └── processed/  # Dataset limpio
-│
 ├── code/
-│   ├── carga_datos.R
-│   ├── limpieza_datos.R
-│   ├── visualizacion.R
-│
 └── README.md
 ```
 
