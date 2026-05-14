@@ -808,7 +808,7 @@ demasiado granular para este análisis. Las preguntas de investigación
 planteadas no solicitan segmentación por continente o país, por lo cual
 se procede con su retiro para limpiar el marco de datos.
 
-**Variables de Consumo y Logística Interna **
+**Variables de Consumo y Logística Interna**
 
 El segundo conjunto de datos a descartar agrupa las variables que
 describen características del consumo o la asignación de inventario del
